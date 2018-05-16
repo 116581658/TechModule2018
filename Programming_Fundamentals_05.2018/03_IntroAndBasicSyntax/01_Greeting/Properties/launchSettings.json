@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "01_Greeting": {
+      "commandName": "Project"
+    }
+  }
+}
